@@ -20,21 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book IA Generativa e o mundo do trabalho ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Elaborar um e-book com auxílio da IA, que informe sobre a IA Generativa e o mundo do trabalho
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Chat GPT
+Leonardo AI
+Libre office
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book será criando com o objetivo de gerar reflexões sobre a IA e sua influência no mundo do trabalho.
 
-## 💭 Reflexão (Opcional)
+💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
